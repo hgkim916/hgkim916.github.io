@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently a second-year undergraduate mathematics student at the University of Cambridge. Some friends and colleagues in the UK know me as Aaron.
+I am an undergraduate student at the University of Cambridge reading mathematics. Some friends and colleagues in the UK know me as Aaron.
 
 I grew up in Seoul, South Korea.
 
