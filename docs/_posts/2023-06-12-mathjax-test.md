@@ -6,4 +6,6 @@ Testing mathjax...
 
 $$ x = y^2 $$
 
-Does this work? The Math Everywhere extension may help.
+Does this work? In line math: $$ y=x^2$$
+
+Or maybe $y=x^2$.
